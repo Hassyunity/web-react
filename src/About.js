@@ -17,13 +17,6 @@ function About() {
         <img className='about-image' src = { about.imageUrl } alt= { 'about' + about.name } />
       </div>
     </>
-    // <div className="about">
-    //   <header className="about-header">
-    //     <p>
-    //       This is a React app.
-    //     </p>
-    //   </header>
-    // </div>
   );
 }
 
